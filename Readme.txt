@@ -14,4 +14,3 @@ Adding items to cart and specifying quantity;
 View the shopping cart; 
 Calculating and displaying the total price; 
 If click "Place order" in the shopping cart screen, the cart is cleared and a message is displayed. 
-
